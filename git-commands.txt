@@ -1,0 +1,8 @@
+git init
+git add .\testing.py
+git status
+  12 git commit -m "added-testing file"
+  13 rm .\testing.py
+  14 clear
+  15 git status
+  16 git restore testing.py
