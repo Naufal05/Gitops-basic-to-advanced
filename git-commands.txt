@@ -6,3 +6,10 @@ git status
   14 clear
   15 git status
   16 git restore testing.py
+  ---------------------------
+    23 git remote add origin https://github.com/Naufal05/Gitops-basic-to-advanced.git
+  24 git remote -v
+  25 git push -u origin main
+  27 hit remote -v
+  28 git remote -v
+  29 git push origin master
